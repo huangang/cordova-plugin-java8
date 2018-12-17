@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="cordova-plugin-java7"
+        id="cordova-plugin-java8"
         version="1.0.0">
-    <name>Cordova Java 7</name>
+    <name>Cordova Java 8</name>
     <author href="">cvuser0</author>
     <description>
-        This plugin attempts to convince Cordova to compile against Java 7 instead of Java 5 on Java platforms
+        This plugin attempts to convince Cordova to compile against Java 8 instead of Java 5 on Java platforms
     </description>
-    <repo>https://github.com/cvuser0/cordova-plugin-java7.git</repo>
-    <issue>https://github.com/cvuser0/cordova-plugin-java7/issues</issue>
+    <repo>https://github.com/sw2dev/cordova-plugin-java8.git</repo>
+    <issue>https://github.com/sw2dev/cordova-plugin-java8/issues</issue>
     <license>MIT</license>
-    <keywords>cordova, java 7</keywords>
+    <keywords>cordova, java 8</keywords>
     <platform name="android">
         <source-file src="build-extras.gradle" target-dir="../android" />
     </platform>
