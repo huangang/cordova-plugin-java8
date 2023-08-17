@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-java8",
+  "version": "1.0.0",
+  "description": "This plugin attempts to convince Cordova to compile against Java 8 instead of Java 5 on Java platforms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangang/cordova-plugin-java8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangang/cordova-plugin-java8/issues"
+  },
+  "homepage": "https://github.com/huangang/cordova-plugin-java8#readme"
+}
